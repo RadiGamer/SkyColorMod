@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.radi.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"SkyColorMixin"
+
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
